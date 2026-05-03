@@ -47,7 +47,7 @@ You can [request a DESIGN.md](https://getdesign.md/request) for specific website
 
 ## Sponsors ❤️
 
-[Become a Sponsor](https://github.com/sponsors/VoltAgent/sponsorships?tier_id=605140) [1M+ view] — your logo here and get listed on [getdesign.md](https://getdesign.md/)
+Become a Sponsor [1M+ view] — your logo here and get listed on [getdesign.md](https://getdesign.md/)
 
 ## Collection
 
@@ -95,7 +95,6 @@ You can [request a DESIGN.md](https://getdesign.md/request) for specific website
 - [**Mintlify**](https://getdesign.md/mintlify/design-md) - Documentation platform. Clean, green-accented, reading-optimized
 - [**Notion**](https://getdesign.md/notion/design-md) - All-in-one workspace. Warm minimalism, serif headings, soft surfaces
 - [**Resend**](https://getdesign.md/resend/design-md) - Email API for developers. Minimal dark theme, monospace accents
-- [**Slack**](https://getdesign.md/slack/design-md) - Team communication platform. Purple brand system, friendly workspace surfaces, conversational UI
 - [**Zapier**](https://getdesign.md/zapier/design-md) - Automation platform. Warm orange, friendly illustration-driven
 
 ### Design & Creative Tools
